@@ -1,4 +1,11 @@
 .DS_Store
+CatBoost/
+RandomForest/
+agModels.zip
+environment.yml
+models/
+test_df.parquet
+train_df.parquet
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
